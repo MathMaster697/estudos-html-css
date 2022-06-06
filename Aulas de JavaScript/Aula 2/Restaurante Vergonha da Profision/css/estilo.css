@@ -1,0 +1,50 @@
+body{
+    background-image:url(../Imagens/pesadelonacozinha.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    margin-top: 200px;
+}
+h1{
+    color:skyblue;
+    font-size: 55px;
+    font-family: 'Bebas Neue', cursive;
+}
+p.primeiro{
+    color: yellow;
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+p.segundo{
+    color: yellow;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+input.editar{
+    font-size: 22px;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+}
+input.editar2{
+    font-size: 22px;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+}
+input.botaoeditar{
+    color:white;
+    background-color: #40978D;
+    font-size: 22px;
+    border: 1px solid papayawhip;
+    padding: 8px;
+    text-shadow: 0 -1px 0 black;
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+    border-top: 1px solid rebeccapurple;
+}
+h3.saida{
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 30px;
+}

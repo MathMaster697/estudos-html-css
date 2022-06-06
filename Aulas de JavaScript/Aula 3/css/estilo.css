@@ -1,0 +1,15 @@
+body{
+    background: #133306;
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    margin-top: 160px;
+}
+main{
+
+    margin: auto;
+    background: white;
+    overflow: auto;
+    border-radius: 0 5px 5px 5px;;
+    padding: 40px;
+}

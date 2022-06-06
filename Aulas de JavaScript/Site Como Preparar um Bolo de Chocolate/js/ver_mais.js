@@ -1,0 +1,6 @@
+function mostrarOla() {
+    var nome = document.getElementById("nome").value;
+    document.getElementById("resposta").innerHTML = "Olá, " + nome + " Para preparar o bolo, primeiro precisamos dos seguintes ingredientes: <br> <br> 2 xícaras (chá) de açúcar <br> 3 xícaras (chá) de farinha de trigo <br> 4 colheres (sopa) de margarina <br> 3 ovos <br> 1 e 1/2 xícara (chá) de leite <br> 1 colher (sopa) bem cheia de fermento em pó <br> <br> Depois para prepararmos vamos fazer assim: <br> Bata as claras em neve e reserve, depois misture as gemas, a margarina e o açúcar até obter uma massa homogênea, e depois acrescente o leite e a farinha de trigo aos poucos, sem parar de bater, por último, adicione as claras em neve e o fermento. Despeje a massa em uma forma grande de furo central untada e enfarinhada. Asse em forno médio 180 °C, preaquecido, por aproximadamente 40 minutos ou ao furar o bolo com um garfo, este saia limpo.";
+}
+var mostrar = document.getElementById("mostrar");
+mostrar.addEventListener("click", mostrarOla);

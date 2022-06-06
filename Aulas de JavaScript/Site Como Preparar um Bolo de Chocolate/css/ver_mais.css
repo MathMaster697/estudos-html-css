@@ -1,0 +1,34 @@
+body{
+    background-image:url(../Imagens/food-cake-chocolate-cake-dessert-dish-flourless-chocolate-cake-1623040-pxhere.com.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    margin-top: 200px;
+}
+h1{
+    color:skyblue;
+    font-size: 55px;
+    font-family: 'Bebas Neue', cursive;
+}
+p{
+    color: yellow;
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+input.editar{
+    font-size: 22px;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+}
+input.editar2{
+    font-size: 22px;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+}
+p.editar2{
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 30px;
+}
