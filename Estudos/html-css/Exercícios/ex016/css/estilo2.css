@@ -1,0 +1,32 @@
+@charset "UTF-8";
+/* CSS Document */
+*{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+
+body{
+	background-image: linear-gradient(to right, #FF99C2, #86CFFF)
+}
+
+main{
+	background-color: white;
+	border-radius: 10px;
+	box-shadow: 5px 5px 15px #F9CE79;
+	width: 600px;
+	padding: 10px;
+	margin: auto;
+}
+
+h1{
+	color: #8AE68A;
+	text-align: center;
+	text-shadow: 1px 1px black; 
+}
+
+h2{
+	color: #86CFFF;
+}
+
+p{
+	text-align: justify;
+}
