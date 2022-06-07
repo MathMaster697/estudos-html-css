@@ -1,0 +1,35 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&family=Lato&display=swap');
+
+/* 
+   Em HTML é id = em CSS é #
+   Em HTML é class = em CSS é .
+*/
+
+body{
+	background-color: #89FC84;
+	font-family: 'Lato', sans-serif;
+	text-align: justify;
+}
+h1{
+	color: darkblue;
+}
+
+h1#principal{
+	text-align: center;
+	color: cornflowerblue;
+}
+
+h2{
+	color: darkolivegreen;
+}
+
+h2.basico{
+	color: darkslateblue;
+}
+h2.intermediario{
+	color:indigo;
+}
+h2.avancado{
+	color: lightcoral;
+}
